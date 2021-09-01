@@ -1,5 +1,10 @@
+require "pry"
+
 def happy_new_year
-  # your code here
+  let i =0
+  while i<10
+    puts "Looping"
+    i+=1
 end
 
 # No need to modify this code! Use this to implement the fizzbuzz_printer method.

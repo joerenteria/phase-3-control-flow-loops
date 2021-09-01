@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-require_relative '../looping'
+require_relative '../looping.rb'
 
 describe '#happy_new_year' do
 
